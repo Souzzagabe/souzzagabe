@@ -1,8 +1,7 @@
 <div>
   
   <h1 align="center">
-    
-    <a href="https://www.linkedin.com/in/edududuribeiro/">Gabriel Souza 😃️</a>
+    Gabriel Souza 😃️
   </h1>
   
   <p align="center">
