@@ -32,6 +32,15 @@ Fevereiro(2023) marca um ano desde que comecei a estudar programação. Não foi
   </a>
 </p>
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/souzzagabe/souzzagabe/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
 
 <b>My GitHub Stats</b>
 
@@ -41,4 +50,3 @@ Fevereiro(2023) marca um ano desde que comecei a estudar programação. Não foi
 <a href="https://github.com/souzzagabe" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzzagabe&langs_count=10&title_color=ffffff&text_color=6366f1&icon_color=facc15&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
-![snake gif](https://github.com/souzzagabe/souzzagabe/blob/output/github-contribution-grid-snake.gif)
