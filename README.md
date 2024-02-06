@@ -6,9 +6,10 @@ Frontend Developer
 
 Fevereiro(2023) marca um ano desde que comecei a estudar programação. Não foi um ano contínuo, teve seus gaps e desafios (cada um com suas particularidades e problemas). Realizei alguns freelas, mas continuo ansiosamente em busca da minha primeira vaga. Meu foco é o frontend, mas estou disposto a aprender outra linguagem, se necessário. Estou na expectativa de conseguir minha primeira oportunidade este ano. Quanto às minhas habilidades interpessoais, me considero pró-ativo, criativo e comunicativo.
 
-* 🌍  I'm based in Porto alegre, Rs
-* ✉️  You can contact me at [gabweb95@gmail.com](mailto:gabweb95@gmail.com)
-* 🧠  I'm learning Automated tests
+
+🌍  Estou localizado em Porto Alegre, RS
+✉️  Você pode entrar em contato comigo em gabweb95@gmail.com
+🧠  Estou aprendendo testes automatizados
 
 ### Skills
 
