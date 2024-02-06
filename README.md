@@ -35,17 +35,11 @@ Fevereiro(2023) marca um ano desde que comecei a estudar programação. Não foi
 
 ### Badges
 
-<p align="left"> 
-  <a href="https://www.github.com/souzzagabe" target="_blank" rel="noreferrer"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=souzzagabe&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=6366f1&icon_color=facc15&bg_color=000000&hide_border=true&show_icons=true" alt="souzzagabe's GitHub stats" /> 
-  </a> 
-  <a href="http://www.github.com/souzzagabe" target="_blank" rel="noreferrer"> 
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=souzzagabe&stroke=6366f1&background=000000&ring=ffffff&fire=ffffff&currStreakNum=6366f1&currStreakLabel=ffffff&sideNums=6366f1&sideLabels=6366f1&dates=6366f1&hide_border=true" /> 
-  </a> 
-<p align="center"> 
-  <a href="https://github.com/souzzagabe"> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzzagabe&langs_count=10&title_color=ffffff&text_color=6366f1&icon_color=facc15&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /> 
-  </a>
-</p>
-</p>
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/souzzagabe"><img src="https://github-readme-stats.vercel.app/api?username=souzzagabe&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=6366f1&icon_color=facc15&bg_color=000000&hide_border=true&show_icons=true" alt="souzzagabe's GitHub stats" /></a>
+
+<a href="http://www.github.com/souzzagabe"><img src="https://github-readme-streak-stats.herokuapp.com/?user=souzzagabe&stroke=6366f1&background=000000&ring=ffffff&fire=ffffff&currStreakNum=6366f1&currStreakLabel=ffffff&sideNums=6366f1&sideLabels=6366f1&dates=6366f1&hide_border=true" /></a>
+
+<a href="https://github.com/souzzagabe" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzzagabe&langs_count=10&title_color=ffffff&text_color=6366f1&icon_color=facc15&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
