@@ -1,51 +1,44 @@
-<div>
-  
-  <h1 align="center">
-    Gabriel Souza 😃️
-  </h1>
-  
-  <p align="center">
-    Technology student looking for opportunities to apply knowledge and grow professionally.
-  
-  </p>
+Gabriel Souza ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+=====================================================================================================================================
 
-<h3 align="center">Languages:</h3>
-<p align="center">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://chakra-ui.com" target="_blank" rel="noreferrer">
-    <img src="https://www.coffeeclass.io/logos/chakra-ui.png" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+Frontend Developer
+------------------
+
+Fevereiro(2023) marca um ano desde que comecei a estudar programação. Não foi um ano contínuo, teve seus gaps e desafios (cada um com suas particularidades e problemas). Realizei alguns freelas, mas continuo ansiosamente em busca da minha primeira vaga. Meu foco é o frontend, mas estou disposto a aprender outra linguagem, se necessário. Estou na expectativa de conseguir minha primeira oportunidade este ano. Quanto às minhas habilidades interpessoais, me considero pró-ativo, criativo e comunicativo.
+
+* 🌍  I'm based in Porto alegre, Rs
+* ✉️  You can contact me at [gabweb95@gmail.com](mailto:gabweb95@gmail.com)
+* 🧠  I'm learning Automated tests
+
+### Skills
+
+
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="36" height="36" alt="Chakra UI" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://filebase.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/filebase-colored.svg" width="36" height="36" alt="Filebase" /></a>
+</p>
+
+
+### Socials
+
+<p align="left"> 
+  <a href="https://www.github.com/souzzagabe" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /> 
+  </a> 
+  <a href="http://www.instagram.com/souzzagabe" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" /> 
+  </a> 
+  <a href="https://www.linkedin.com/in/gabriel-souza-0b6601269/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /> 
   </a>
 </p>
 
-  
-</div>
 
-<div align="center">
-  <a href="https://github.com/souzzagave">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=souzzagabe&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzzagabe&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
-</div>
-<br>
+### Badges
 
-<div align="center">
-  <a href="https://www.instagram.com/souzzagabe/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-souza-0b6601269/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<b>My GitHub Stats</b>
 
+<a href="http://www.github.com/souzzagabe"><img src="https://github-readme-stats.vercel.app/api?username=souzzagabe&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=6366f1&icon_color=facc15&bg_color=000000&hide_border=true&show_icons=true" alt="souzzagabe's GitHub stats" /></a>
+
+<a href="http://www.github.com/souzzagabe"><img src="https://github-readme-streak-stats.herokuapp.com/?user=souzzagabe&stroke=6366f1&background=000000&ring=ffffff&fire=ffffff&currStreakNum=6366f1&currStreakLabel=ffffff&sideNums=6366f1&sideLabels=6366f1&dates=6366f1&hide_border=true" /></a>
+
+<a href="https://github.com/souzzagabe" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzzagabe&langs_count=10&title_color=ffffff&text_color=6366f1&icon_color=facc15&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
