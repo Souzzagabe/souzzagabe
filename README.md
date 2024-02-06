@@ -34,7 +34,6 @@ Fevereiro(2023) marca um ano desde que comecei a estudar programação. Não foi
 </p>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/souzzagabe/souzzagabe/output/github-contribution-grid-snake-dark.svg" />
   
