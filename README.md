@@ -44,13 +44,20 @@ Fevereiro(2023) marca um ano desde que comecei a estudar programação. Não foi
 
 Como eu tenho vários projetos de estudos, vou deixar alguns em destaque:
 
-O Rick and Morty Info é um aplicativo web que fornece informações sobre a popular série de animação "Rick and Morty". Ele apresenta detalhes sobre os personagens da série, episódios e muito mais.
+O Rick and Morty Info é um aplicativo web que fornece informações sobre a popular série de animação "Rick and Morty". Ele apresenta detalhes sobre os personagens da série, episódios e muito mais:
+
+
 https://github.com/Souzzagabe/ram-project
 
-Este é um projeto de painel de estatísticas da Covid-19 que exibe informações sobre casos, mortes, recuperados e casos críticos, tanto a nível global quanto específico para o Brasil. O painel oferece a funcionalidade de alternar entre os idiomas inglês e português, bem como alternar entre os temas claro e escuro.
+
+Este é um projeto de painel de estatísticas da Covid-19 que exibe informações sobre casos, mortes, recuperados e casos críticos, tanto a nível global quanto específico para o Brasil:
+
+
 https://github.com/Souzzagabe/covid-statistcs
 
-Esse foi um desafio que eu fiz, onde superei 40 pessoas e consegui vaga pra um voluntáriado em uma ong.
+
+Esse foi um desafio que eu fiz, onde superei 40 pessoas e consegui vaga pra um voluntáriado em uma ong:
+
 https://github.com/Souzzagabe/desafio_voluntario
 
 
