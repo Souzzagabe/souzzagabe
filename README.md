@@ -4,7 +4,12 @@ Gabriel Souza ![](https://user-images.githubusercontent.com/18350557/176309783-0
 Frontend Developer
 ------------------
 
-Fevereiro(2023) marca um ano desde que comecei a estudar programação. Não foi um ano contínuo, teve seus gaps e desafios (cada um com suas particularidades e problemas). Realizei alguns freelas, mas continuo ansiosamente em busca da minha primeira vaga. Meu foco é o frontend, mas estou disposto a aprender outra linguagem, se necessário. Estou na expectativa de conseguir minha primeira oportunidade este ano. Quanto às minhas habilidades interpessoais, me considero pró-ativo, criativo e comunicativo.
+Tecnologias e Experiência:
+
+Experiência comprovada em Typescript, JavaScript, React, Styled Components, Jest, Material-UI e Chakra UI.
+Experiência em metodologias ágeis, como SCRUM e Kanban, para garantir entregas eficientes.
+Trabalho em equipe dentro de um ambiente de squads, contribuindo para a manutenção, atualização e adição de novas funcionalidades em sites.
+Experiência como freelancer, desenvolvendo sites, landing pages e realizando ajustes em plataformas como WordPress, React e JavaScript.
 
 
 * 🌍  Estou localizado Porto alegre, Rs
