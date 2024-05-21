@@ -60,4 +60,8 @@ Esse foi um desafio que eu fiz, onde superei 40 pessoas e consegui vaga pra um v
 
 https://github.com/Souzzagabe/desafio_voluntario
 
+Segundo perfil, onde eu participo de outros projetos:
+
+https://github.com/Souzzagab
+
 
