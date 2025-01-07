@@ -4,12 +4,13 @@ Gabriel Souza ![](https://user-images.githubusercontent.com/18350557/176309783-0
 Frontend Developer
 ------------------
 
-Tecnologias e Experiência:
-
-Experiência comprovada em Typescript, JavaScript, React, Styled Components, Jest, Material-UI e Chakra UI.
-Experiência em metodologias ágeis, como SCRUM e Kanban, para garantir entregas eficientes.
-Trabalho em equipe dentro de um ambiente de squads, contribuindo para a manutenção, atualização e adição de novas funcionalidades em sites.
-Experiência como freelancer, desenvolvendo sites, landing pages e realizando ajustes em plataformas como WordPress, React e JavaScript.
+Sou um profissional que ao longo do tempo foi observado que sou proativo, multidisciplinar, comunicativo,
+trabalho muito bem em equipe, criativo e que tenho um pensamento sistêmico, não só atuo pensando no
+código, mas pensando na aplicação como um todo.
+Sempre participando em times ágeis, fazendo uso de scrum ou kanban e utilizando tecnologias como: javascript,
+typescript, reactjs, styled components, material ui, chakra ui, cypress e jest.
+Versionamento no gitlab e github, entre outras. além dessas tecnologias, sigo cada dia me aprofundando nas
+stacks.
 
 
 * 🌍  Estou localizado Porto alegre, Rs
