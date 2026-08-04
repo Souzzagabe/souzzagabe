@@ -2,10 +2,6 @@
 <h3 align="center">Frontend Developer | React • TypeScript • Angular • Node.js</h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="400"/>
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/gabriel-souza-0b6601269/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
