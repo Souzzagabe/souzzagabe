@@ -48,7 +48,7 @@ Tenho como principal interesse a construção de **código limpo, testável e su
 
 ---
 
-### ⭐ Projeto em destaque: `teste-front-teddy`
+### ⭐ Projeto em destaque: `teste-microfrontend`
 
 Meu projeto mais completo até o momento, desenvolvido para explorar e aplicar conceitos avançados de arquitetura front-end em um cenário próximo ao de produtos reais em escala:
 
