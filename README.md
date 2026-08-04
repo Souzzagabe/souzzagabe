@@ -61,6 +61,8 @@ Meu projeto mais completo até o momento, desenvolvido para explorar e aplicar c
 - 📦 **Organização escalável de código** — estrutura pensada para crescer sem acumular dívida técnica
 - ⚙️ Foco em performance, manutenibilidade e clareza na comunicação entre módulos
 
+> 💡 Atualmente empregado como desenvolvedor, o que naturalmente reduz o tempo dedicado a projetos pessoais — este é hoje o mais completo e representativo do meu nível técnico. A retomada de projetos individuais está nos próximos passos.
+
 > 🔗 Confira o repositório fixado no meu perfil para detalhes técnicos e decisões de arquitetura.
 
 ---
